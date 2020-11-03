@@ -1,4 +1,4 @@
 # Estatistica
 
 
-- Projeto analise da saúde nos paises do BRICS
+- Projeto de analise da saúde nos paises do BRICS
